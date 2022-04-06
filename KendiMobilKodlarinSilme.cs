@@ -1241,6 +1241,20 @@ public class KendiMobilKodlarinSilme : MonoBehaviour
             #endregion
 
 
+            #region  15 ) TouchPhase.Stationary
+
+            // Bir parmak ekrana dokunuyo ama hareket etmiyorsa bunu kullan.
+
+            #endregion
+
+
+            #region  16 ) TouchPhase.Canceled
+
+            /*   Bu, örneðin, kullanýcý cihazý yüzüne koyarsa veya ayný anda sistemin izleyebileceðinden daha fazla dokunuþ
+                 yaparsa(tam sayý farklý platformlara göre deðiþir) olabilir.Bu bir dokunuþun son aþamasýdýr.
+
+            */
+            #endregion
 
 
 
